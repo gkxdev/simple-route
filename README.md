@@ -1,6 +1,6 @@
 # Route
 
-PHP ile geliştirdiğim, düzenli ifade (regex) temelli rota/lama kütüphanesidir.
+Düzenli ifade (regex) temelli PHP rotalama kütüphanesi.
 
 ## Kullanımı
 
