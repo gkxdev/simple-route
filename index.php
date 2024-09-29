@@ -1,9 +1,4 @@
 <?php
-/**
- * Route Kullanım Örneği
- * @author Gökhan Kaya <gkxdev@gmail.com>
- */
-
 require_once __DIR__ . '/Route.php';
 
 $route = new Route;
